@@ -14,10 +14,7 @@ Built with:
 3. JavaScript
 
 ## Installation, etc. 
-				cd
- to the location of your choice, and then 
-				git clone
-Hack away! 
+`cd` to the location of your choice, and then `git clone`. Hack away! 
 
 ## License
 MIT
