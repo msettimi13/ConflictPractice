@@ -6,7 +6,7 @@ A retrospective on Phase 1 of the Marvel Cinematic Universe. You can visit [marv
 ## Requirements
 Use a modern browser (if you don't have one, use Internet Explorer to download something that actually works) 
 
-Not a lot -- you'll need git installed locally, as well as a preprocessor like [SASS](https://sass-lang.com/) for CSS compilation. A good code editor helps too!
+Not a lot -- you'll need git installed locally, as well as a preprocessor like [SASS](https://sass-lang.com/) for CSS compilation. A good code editor helps too!!
 
 Built with: 
 1. HTML
